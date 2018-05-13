@@ -1,5 +1,6 @@
-注意
+Notion
 ----
 
-このプロジェクトは，MFOの著者のHPからダウンロードしてきたものに手を加えました．
-全て僕が書いたわけではないため，ご了承ください
+These source code is downloaded from a following homepage and modified.
+
+http://www.cil.ntu.edu.sg/mfo/download.html
